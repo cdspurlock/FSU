@@ -1,0 +1,20 @@
+
+/* changes the style of hole site */
+body {
+    background-color: rgb(72, 72, 72);
+}
+
+/* Styling just the text color of H! */
+h1 {
+    color: #fff;
+}
+
+/* Styling just the text color of H3 */
+h3 {
+    color: #fff;
+}
+
+/* Styling just the text color of P */
+p {
+    color: #fff;
+}
